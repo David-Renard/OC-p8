@@ -1,0 +1,17 @@
+/projet8-TodoList/app/config/parameters.yml
+/projet8-TodoList/build/
+/projet8-TodoList/phpunit.xml
+/projet8-TodoList/var/*
+!/projet8-TodoList/var/cache
+/projet8-TodoList/var/cache/*
+!projet8-TodoList/var/cache/.gitkeep
+!/projet8-TodoList/var/logs
+/projet8-TodoList/var/logs/*
+!projet8-TodoList/var/logs/.gitkeep
+!/projet8-TodoList/var/sessions
+/projet8-TodoList/var/sessions/*
+!projet8-TodoList/var/sessions/.gitkeep
+!projet8-TodoList/var/SymfonyRequirements.php
+/projet8-TodoList/vendor/
+/projet8-TodoList/web/bundles/
+/.idea/
