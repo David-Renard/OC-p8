@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/webpack-encore-bundle": "^2.1",
+        "twbs/bootstrap": "^5.3"
+    }
+}
